@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import { graphql, useStaticQuery, Link } from "gatsby"
-import Img from "gatsby-image"
+import Img from "#"
 
 import { Container } from "../global"
 
